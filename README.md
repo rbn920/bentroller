@@ -13,7 +13,7 @@ The design goals were as follows:
 | --- | --------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | 1   | ESP32-C3 Super Mini                           |                                                                                           |
 | 1   | MP1584 voltage converter module (buck converter) | Preset to 3v is preferred but adjustable is fine.                                      |
-| 1   | D4184 MOSFET Control Module                   |                                                                                           |
+| 1   | D4184 MOSFET Control Module                   | Found [here](https://protosupplies.com/product/d4184-mosfet-control-module/)              |
 | 1   | 1N5819 Diode                                  |                                                                                           |
 | 3   | 2-pin JST-HX through hole connectors          |                                                                                           |
 | 4   | M2x6 SHCS                                     | These are for mounting the PCB to the BentoBox.                                           |
