@@ -21,3 +21,9 @@ The design goals were as follows:
 
 ## Printed Parts
 There are parts to print in the stl folder to mount the board to the side of the BentoBox. It is a bit hacky but it works. Print 1 of each mouth part and 4 spacers.
+
+## Changes from V2
+I never published V1. I built it and imediatly updated it but the following is a list if changes made:
+- Went from an ESP32-S2 to ESP32-C3. I had a handfull of S2 boards so I used it but changed to the C3 because I only needed 1 GPIO and it is more compact.
+- Voltage input on the V1 used a screw terminal. V2 moved to a JST-HX.
+- V2 makes all pins of the C3 available in case anyone decides to make on of these and comes up for a clever use for the additional pins.
