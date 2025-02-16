@@ -20,7 +20,7 @@ The design goals were as follows:
 
 
 ## Printed Parts
-There are parts to print in the stl folder to mount the board to the side of the BentoBox. It is a bit hacky but it works. Print 1 of each mouth part and 4 spacers.
+There are parts to print in the stl folder to mount the board to the side of the BentoBox. It is a bit hacky but it works. It gets sandwiched between the fan and duct portions of the BentoBox. Print 1 of each mouth part and 4 spacers.
 
 ## Changes from V2
 I never published V1. I built it and imediatly updated it but the following is a list if changes made:
