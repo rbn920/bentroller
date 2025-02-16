@@ -1,17 +1,11 @@
-# Ignore compiled Arduino files
-*.hex
-*.bin
-
-# Ignore logs
-*.log
-
-# Ignore IDE settings (e.g., for Arduino IDE)
-.vscode/
-.idea/
-
-# Ignore temporary files
-*.bak
-*.swp
-
-# Ignore zip files
-*.zip
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+node_modules/
+bin/
+obj/
+.vs/
